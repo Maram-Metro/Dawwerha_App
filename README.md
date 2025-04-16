@@ -47,7 +47,7 @@
 
 ## 🔒 License & Acknowledgment
 
-This app was built for academic purposes and submitted to the **Ministry of Environment, Water & Agriculture**.  
+This app was built for academic purposes and submitted to the **Ministry of Environment, Water & Agriculture 🌿**.  
 **Do not use, reproduce, or distribute without explicit permission from the Ministry.**
 
 
